@@ -8,20 +8,14 @@ function IndexPopup() {
       style={{
         display: "flex",
         flexDirection: "column",
-        padding: 16
+        padding: 16,
+        width: "500px"
       }}>
-      <h2>
-        Welcome to your
-        <a href="https://www.plasmo.com" target="_blank">
-          {" "}
-          Plasmo
-        </a>{" "}
-        Extension!
-      </h2>
-      <input onChange={(e) => setData(e.target.value)} value={data} />
-      <a href="https://docs.plasmo.com" target="_blank">
-        View Docs
-      </a>
+      <h1>Hey, ✌️</h1>
+      <p className="m-0 p-5">folgendes ist eine Chromeextension, die nervige "Adblock bitte schließen" Meldungen auf YouTube blockt.</p>
+      <h2>Muss ich noch was einstellen?</h2>
+      <p>Nein.</p>
+      <p>Einfach diese Chromeextension über den  Chromewebstore installierne und schon sollte alles klappen.</p>
     </div>
   )
 }
