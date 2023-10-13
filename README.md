@@ -1,8 +1,3 @@
-# Youtube Adblock-Blocker
-Folgende Chromeextension verhindert, dass Youtube ein Popup anzeigt, dass man den Adblocker ausschalten soll.
+# Youtube Adblock-Block-Blocker
+You can easily block the popups which pop ups when you use a Ablocker in Youtube.
 
-## Wie kann man das benutzen?
-Wenn die Extension richtig installiert ist, braucht man sie nur noch  die Permission, im Hintergrund laufen zu können, und schon funktioniert sie. 
-
-## Kann man Updateideen teilen?
-Ja.
