@@ -8,4 +8,4 @@ If the extension is installed properly, you just need it to have the permission 
 
 ## Can I share update ideas?
 
-Yes
+Yes. To share a idea, please open an issue.
