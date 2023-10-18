@@ -1,6 +1,10 @@
 export {}
 if (window.location.host == "www.youtube.com") {
-    const elements = document.querySelector("ytd-popup-container")
-    elements.remove()
+    try {
+        const elements = document.querySelector("ytd-popup-container")
+        elements.remove()
+    } catch {
+        console.error("Youtube-Adblock-Blocker: an error is occureated.")
+    }
   
 }
