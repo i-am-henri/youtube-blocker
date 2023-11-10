@@ -4,7 +4,7 @@ The following chrome extension prevents Youtube from showing a popup that you sh
 
 ## How to use it?
 
-If the extension is installed properly, you just need it to have the permission to run in the background and it will work.
+If the extension is installed properly, you just need it to have the permission to run in the background and it will work. You have not to pay for anything in this app.
 
 ## Can I share update ideas?
 
